@@ -1,0 +1,1589 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "\u0413\u043b\u0430\u0437\u0430 \u0432\u043e \u0442\u044c\u043c\u0435",
+            "year": 1930,
+            "pages": 926,
+            "isbn13": "978-1-4152-3624-6",
+            "rating": 2,
+            "price": "79.5$",
+            "author": [
+                "Angela Williams",
+                "Mr. Luis Ward MD",
+                "Katie Stephenson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 2,
+        "fields": {
+            "title": "Demon Slayer",
+            "year": 1914,
+            "pages": 325,
+            "isbn13": "978-1-65839-692-9",
+            "rating": 3,
+            "price": "53.4$",
+            "author": [
+                "Melissa Marks",
+                "Connie Edwards"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 3,
+        "fields": {
+            "title": "\u041a\u043d\u0438\u0433\u0430 \u043f\u044f\u0442\u0438 \u043a\u043e\u043b\u0435\u0446",
+            "year": 1926,
+            "pages": 492,
+            "isbn13": "978-1-71799-193-5",
+            "rating": 2,
+            "price": "76.0$",
+            "author": [
+                "Mario Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 4,
+        "fields": {
+            "title": "Berserk",
+            "year": 1928,
+            "pages": 916,
+            "isbn13": "978-0-7952-9543-0",
+            "rating": 3,
+            "price": "80.4$",
+            "author": [
+                "Brooke Gomez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "Helsing",
+            "year": 1915,
+            "pages": 426,
+            "isbn13": "978-0-391-21297-8",
+            "rating": 1,
+            "price": "24.5$",
+            "author": [
+                "Caleb Robbins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "\u0413\u043b\u0430\u0437\u0430 \u0432\u043e \u0442\u044c\u043c\u0435",
+            "year": 1973,
+            "pages": 652,
+            "isbn13": "978-0-599-44377-8",
+            "rating": 1,
+            "price": "54.0$",
+            "author": [
+                "Dillon Wolf",
+                "Michael Mathews"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "Berserk",
+            "year": 2003,
+            "pages": 672,
+            "isbn13": "978-0-9581454-3-5",
+            "rating": 1,
+            "price": "52.8$",
+            "author": [
+                "Ryan Rogers"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1925,
+            "pages": 543,
+            "isbn13": "978-1-86409-499-2",
+            "rating": 1,
+            "price": "72.8$",
+            "author": [
+                "Jamie Fleming",
+                "Thomas Cooper",
+                "Patricia Harris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "Bakuman",
+            "year": 1984,
+            "pages": 371,
+            "isbn13": "978-1-968399-09-2",
+            "rating": 1,
+            "price": "19.5$",
+            "author": [
+                "Michael Bradley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "\u0414\u0430\u0440 \u044e\u043d\u043e\u0439 \u0432\u0435\u0434\u044c\u043c\u044b",
+            "year": 1942,
+            "pages": 597,
+            "isbn13": "978-1-85033-513-9",
+            "rating": 4,
+            "price": "42.5$",
+            "author": [
+                "Charles Grant"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "Helsing",
+            "year": 1907,
+            "pages": 847,
+            "isbn13": "978-0-9916762-9-3",
+            "rating": 4,
+            "price": "51.2$",
+            "author": [
+                "Theresa Abbott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "Bakuman",
+            "year": 1971,
+            "pages": 907,
+            "isbn13": "978-1-83380-774-5",
+            "rating": 4,
+            "price": "67.4$",
+            "author": [
+                "Carla Randall DVM",
+                "Michelle Haney"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "20th centuries boys",
+            "year": 1920,
+            "pages": 761,
+            "isbn13": "978-1-300-60921-6",
+            "rating": 1,
+            "price": "31.9$",
+            "author": [
+                "Shelby Smith",
+                "Amber Young",
+                "Beverly Ramos"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "Solo Leveling",
+            "year": 1965,
+            "pages": 276,
+            "isbn13": "978-0-07-378631-5",
+            "rating": 4,
+            "price": "54.0$",
+            "author": [
+                "Margaret Lopez",
+                "Jeremiah Acevedo",
+                "Carmen Mckenzie"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "Golden Boy",
+            "year": 1951,
+            "pages": 899,
+            "isbn13": "978-1-57139-578-8",
+            "rating": 1,
+            "price": "39.7$",
+            "author": [
+                "Joseph Foster",
+                "Nicole Murray",
+                "Kathleen Perkins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "title": "\u0412\u043a\u0443\u0441 \u0441\u043e\u043b\u043d\u0446\u0430",
+            "year": 1958,
+            "pages": 569,
+            "isbn13": "978-0-546-28794-3",
+            "rating": 4,
+            "price": "53.2$",
+            "author": [
+                "Elizabeth Brown"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "title": "\u0413\u043b\u0430\u0437\u0430 \u0432\u043e \u0442\u044c\u043c\u0435",
+            "year": 1905,
+            "pages": 466,
+            "isbn13": "978-1-84813-520-8",
+            "rating": 5,
+            "price": "53.2$",
+            "author": [
+                "Samantha Barron"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1905,
+            "pages": 718,
+            "isbn13": "978-1-08-705505-3",
+            "rating": 5,
+            "price": "22.3$",
+            "author": [
+                "Jean Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "title": "20th centuries boys",
+            "year": 1985,
+            "pages": 499,
+            "isbn13": "978-1-02-062324-0",
+            "rating": 3,
+            "price": "46.6$",
+            "author": [
+                "David Peterson",
+                "Ryan Solomon",
+                "Nathaniel Wilson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "title": "\u0417\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0439 \u0434\u043e\u043c \u0438\u0437 \u0442\u0435\u043c\u043d\u043e\u0433\u043e \u043b\u0435\u0441\u0430",
+            "year": 1946,
+            "pages": 864,
+            "isbn13": "978-0-9941282-0-1",
+            "rating": 2,
+            "price": "66.7$",
+            "author": [
+                "Steven Owens",
+                "Daniel Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "title": "Hunter x Hunter",
+            "year": 2019,
+            "pages": 633,
+            "isbn13": "978-0-381-07346-6",
+            "rating": 1,
+            "price": "49.0$",
+            "author": [
+                "Patricia Bryant",
+                "Ashley Romero",
+                "Joseph Flores"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "title": "Bakuman",
+            "year": 1958,
+            "pages": 210,
+            "isbn13": "978-0-311-37704-6",
+            "rating": 3,
+            "price": "22.4$",
+            "author": [
+                "Bonnie Humphrey",
+                "Todd Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "title": "\u0413\u043b\u0430\u0437\u0430 \u0432\u043e \u0442\u044c\u043c\u0435",
+            "year": 2020,
+            "pages": 631,
+            "isbn13": "978-1-175-52551-2",
+            "rating": 3,
+            "price": "43.4$",
+            "author": [
+                "Kimberly Beasley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "title": "20th centuries boys",
+            "year": 1939,
+            "pages": 813,
+            "isbn13": "978-0-10-248240-9",
+            "rating": 4,
+            "price": "21.0$",
+            "author": [
+                "Benjamin Lloyd",
+                "Donald Herring",
+                "Jessica Bishop"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "title": "Monster",
+            "year": 2014,
+            "pages": 429,
+            "isbn13": "978-1-5018-8462-7",
+            "rating": 1,
+            "price": "44.3$",
+            "author": [
+                "Elizabeth Blair",
+                "Robert Scott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "title": "One Piece",
+            "year": 1926,
+            "pages": 281,
+            "isbn13": "978-1-929136-13-1",
+            "rating": 2,
+            "price": "47.0$",
+            "author": [
+                "Steven Martin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "title": "Vagabond",
+            "year": 1956,
+            "pages": 481,
+            "isbn13": "978-0-581-32630-0",
+            "rating": 1,
+            "price": "73.9$",
+            "author": [
+                "Haley White",
+                "Nancy Griffin",
+                "Rebecca Gonzalez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "title": "\u0412\u043a\u0443\u0441 \u0441\u043e\u043b\u043d\u0446\u0430",
+            "year": 1911,
+            "pages": 882,
+            "isbn13": "978-1-5109-9085-2",
+            "rating": 2,
+            "price": "41.6$",
+            "author": [
+                "Daniel Duncan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "title": "Solo Leveling",
+            "year": 1953,
+            "pages": 726,
+            "isbn13": "978-1-5437-8854-9",
+            "rating": 1,
+            "price": "30.3$",
+            "author": [
+                "Jeffrey Walker",
+                "David Burton",
+                "Jennifer Clark"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "title": "Helsing",
+            "year": 1964,
+            "pages": 770,
+            "isbn13": "978-0-8296-9297-6",
+            "rating": 4,
+            "price": "74.2$",
+            "author": [
+                "David Hopkins",
+                "Thomas Bradley"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "title": "Chainsaw man",
+            "year": 1962,
+            "pages": 880,
+            "isbn13": "978-1-391-27418-8",
+            "rating": 2,
+            "price": "61.4$",
+            "author": [
+                "William Smith",
+                "Stephen Bennett"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "title": "\u0417\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0439 \u0434\u043e\u043c \u0438\u0437 \u0442\u0435\u043c\u043d\u043e\u0433\u043e \u043b\u0435\u0441\u0430",
+            "year": 1971,
+            "pages": 730,
+            "isbn13": "978-0-618-03122-1",
+            "rating": 1,
+            "price": "55.1$",
+            "author": [
+                "Jeffrey Brown",
+                "Charles Schwartz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1952,
+            "pages": 708,
+            "isbn13": "978-0-586-88761-5",
+            "rating": 3,
+            "price": "63.5$",
+            "author": [
+                "Brandon Hall"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "title": "One Piece",
+            "year": 2023,
+            "pages": 592,
+            "isbn13": "978-0-381-77378-6",
+            "rating": 1,
+            "price": "78.7$",
+            "author": [
+                "Charles Moss"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "title": "Golden Boy",
+            "year": 2011,
+            "pages": 631,
+            "isbn13": "978-1-65530-658-7",
+            "rating": 5,
+            "price": "22.4$",
+            "author": [
+                "Justin Larsen",
+                "Jonathan Henderson",
+                "Brooke Rodriguez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "title": "\u0421\u0451\u0433\u0443\u043d",
+            "year": 1980,
+            "pages": 863,
+            "isbn13": "978-0-10-971559-3",
+            "rating": 3,
+            "price": "85.8$",
+            "author": [
+                "Christopher Anderson",
+                "Amanda Stewart",
+                "Lauren Lopez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "title": "Chainsaw man",
+            "year": 1985,
+            "pages": 191,
+            "isbn13": "978-1-159-70115-4",
+            "rating": 4,
+            "price": "63.0$",
+            "author": [
+                "Jenna Evans",
+                "Tamara Evans",
+                "Denise Gallegos"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "title": "\u041a\u043d\u0438\u0433\u0430 \u043f\u044f\u0442\u0438 \u043a\u043e\u043b\u0435\u0446",
+            "year": 2010,
+            "pages": 436,
+            "isbn13": "978-0-07-221251-8",
+            "rating": 4,
+            "price": "57.9$",
+            "author": [
+                "Mary Glover MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "title": "Rock Ken",
+            "year": 1933,
+            "pages": 410,
+            "isbn13": "978-1-7345355-5-6",
+            "rating": 2,
+            "price": "21.8$",
+            "author": [
+                "Jeffrey Gomez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "title": "Rock Ken",
+            "year": 1925,
+            "pages": 679,
+            "isbn13": "978-1-195-39326-9",
+            "rating": 5,
+            "price": "54.9$",
+            "author": [
+                "Jonathan Oconnor",
+                "Melinda Whitehead"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "title": "One Piece",
+            "year": 1929,
+            "pages": 945,
+            "isbn13": "978-0-8126-9665-3",
+            "rating": 1,
+            "price": "72.4$",
+            "author": [
+                "Sophia Roberts"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "title": "\u0421\u0442\u0440\u0430\u043d\u0430 \u0437\u0430\u0431\u044b\u0442\u044b\u0445 \u0447\u0443\u0432\u0441\u0442\u0432",
+            "year": 1972,
+            "pages": 360,
+            "isbn13": "978-1-171-44337-7",
+            "rating": 5,
+            "price": "32.4$",
+            "author": [
+                "Misty Osborn",
+                "Dr. Michael Kelly"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "title": "Vagabond",
+            "year": 1983,
+            "pages": 863,
+            "isbn13": "978-0-379-23121-2",
+            "rating": 5,
+            "price": "81.2$",
+            "author": [
+                "Aaron Thornton",
+                "Kristina Fleming",
+                "Nancy Brennan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "title": "One Punch Man",
+            "year": 1926,
+            "pages": 557,
+            "isbn13": "978-0-01-922313-3",
+            "rating": 3,
+            "price": "55.4$",
+            "author": [
+                "Nathan Wilson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "title": "20th centuries boys",
+            "year": 1929,
+            "pages": 693,
+            "isbn13": "978-0-15-304569-1",
+            "rating": 3,
+            "price": "79.4$",
+            "author": [
+                "Joseph Keller",
+                "Keith Franklin",
+                "William Mendoza"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "title": "\u0412\u043a\u0443\u0441 \u0441\u043e\u043b\u043d\u0446\u0430",
+            "year": 1989,
+            "pages": 280,
+            "isbn13": "978-0-450-00637-1",
+            "rating": 2,
+            "price": "57.0$",
+            "author": [
+                "Dennis Rosario",
+                "Ray Peck"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1988,
+            "pages": 895,
+            "isbn13": "978-0-7974-4286-3",
+            "rating": 2,
+            "price": "39.4$",
+            "author": [
+                "Ian Decker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "title": "Rock Ken",
+            "year": 2017,
+            "pages": 935,
+            "isbn13": "978-1-5129-3791-6",
+            "rating": 1,
+            "price": "39.4$",
+            "author": [
+                "Katie Leach"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "title": "20th centuries boys",
+            "year": 1909,
+            "pages": 753,
+            "isbn13": "978-0-907370-06-2",
+            "rating": 5,
+            "price": "77.1$",
+            "author": [
+                "Robert Thomas",
+                "Linda Davis",
+                "Pamela Moore"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "title": "Great teacher Onidzuka",
+            "year": 1954,
+            "pages": 801,
+            "isbn13": "978-1-4116-1596-0",
+            "rating": 5,
+            "price": "20.3$",
+            "author": [
+                "Lauren Patel",
+                "Vincent Lester"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "title": "Gomunkulus",
+            "year": 1934,
+            "pages": 408,
+            "isbn13": "978-1-374-91559-6",
+            "rating": 2,
+            "price": "33.3$",
+            "author": [
+                "Nancy Davis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "title": "\u0412\u043a\u0443\u0441 \u0441\u043e\u043b\u043d\u0446\u0430",
+            "year": 2000,
+            "pages": 669,
+            "isbn13": "978-0-7660-7377-7",
+            "rating": 2,
+            "price": "55.1$",
+            "author": [
+                "Jennifer Bowen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "title": "\u041a\u043d\u0438\u0433\u0430 \u043f\u044f\u0442\u0438 \u043a\u043e\u043b\u0435\u0446",
+            "year": 1998,
+            "pages": 898,
+            "isbn13": "978-1-4926-6032-3",
+            "rating": 4,
+            "price": "35.1$",
+            "author": [
+                "Tammy Thompson",
+                "Ashlee King",
+                "Steven Avila"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "title": "Chainsaw man",
+            "year": 1954,
+            "pages": 907,
+            "isbn13": "978-1-933385-30-3",
+            "rating": 2,
+            "price": "37.6$",
+            "author": [
+                "Tiffany Wright DDS"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "title": "Great teacher Onidzuka",
+            "year": 1904,
+            "pages": 786,
+            "isbn13": "978-1-209-03389-1",
+            "rating": 3,
+            "price": "15.0$",
+            "author": [
+                "Colin Russell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1956,
+            "pages": 591,
+            "isbn13": "978-0-399-56745-2",
+            "rating": 5,
+            "price": "23.3$",
+            "author": [
+                "Amanda Wright"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "title": "\u041a\u043d\u0438\u0433\u0430 \u043f\u044f\u0442\u0438 \u043a\u043e\u043b\u0435\u0446",
+            "year": 1968,
+            "pages": 865,
+            "isbn13": "978-1-57962-363-0",
+            "rating": 4,
+            "price": "64.6$",
+            "author": [
+                "Connor Brown",
+                "James Burns",
+                "Monica Harper"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "title": "Chainsaw man",
+            "year": 2015,
+            "pages": 619,
+            "isbn13": "978-0-9673680-5-4",
+            "rating": 1,
+            "price": "50.8$",
+            "author": [
+                "Stephanie Allen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "title": "One Punch Man",
+            "year": 1907,
+            "pages": 415,
+            "isbn13": "978-0-677-91475-6",
+            "rating": 2,
+            "price": "26.7$",
+            "author": [
+                "Thomas Thomas",
+                "Linda Payne"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "title": "\u041a\u043d\u0438\u0433\u0430 \u043f\u044f\u0442\u0438 \u043a\u043e\u043b\u0435\u0446",
+            "year": 1972,
+            "pages": 544,
+            "isbn13": "978-0-549-84916-2",
+            "rating": 2,
+            "price": "49.6$",
+            "author": [
+                "Elizabeth Young",
+                "Amber Sandoval"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1964,
+            "pages": 290,
+            "isbn13": "978-1-5094-2657-7",
+            "rating": 4,
+            "price": "21.5$",
+            "author": [
+                "Jennifer Phillips",
+                "Alexandra Patterson",
+                "Taylor Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "title": "\u0421\u0442\u0440\u0430\u043d\u0430 \u0437\u0430\u0431\u044b\u0442\u044b\u0445 \u0447\u0443\u0432\u0441\u0442\u0432",
+            "year": 1953,
+            "pages": 585,
+            "isbn13": "978-0-662-56577-2",
+            "rating": 1,
+            "price": "80.0$",
+            "author": [
+                "Bobby Oliver"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "title": "Demon Slayer",
+            "year": 1907,
+            "pages": 507,
+            "isbn13": "978-0-640-75392-4",
+            "rating": 3,
+            "price": "41.6$",
+            "author": [
+                "Catherine Knight"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "title": "Hunter x Hunter",
+            "year": 1975,
+            "pages": 266,
+            "isbn13": "978-1-879149-23-6",
+            "rating": 5,
+            "price": "17.6$",
+            "author": [
+                "Mr. Gregory Mcintosh"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "title": "Monster",
+            "year": 1976,
+            "pages": 615,
+            "isbn13": "978-1-86881-178-6",
+            "rating": 4,
+            "price": "28.2$",
+            "author": [
+                "Heather Gonzalez",
+                "Pamela Krause",
+                "Lisa Harris"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1921,
+            "pages": 695,
+            "isbn13": "978-1-152-04064-9",
+            "rating": 1,
+            "price": "19.8$",
+            "author": [
+                "Courtney Murphy",
+                "Jaime Davis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "title": "Rock Ken",
+            "year": 1967,
+            "pages": 434,
+            "isbn13": "978-0-391-57449-6",
+            "rating": 5,
+            "price": "41.4$",
+            "author": [
+                "Stephanie Evans",
+                "Shawn Caldwell Jr."
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "title": "Vanlad saga",
+            "year": 2015,
+            "pages": 768,
+            "isbn13": "978-0-14-268608-9",
+            "rating": 3,
+            "price": "85.5$",
+            "author": [
+                "Zachary Dixon"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "title": "Rock Ken",
+            "year": 1940,
+            "pages": 342,
+            "isbn13": "978-1-80350-375-2",
+            "rating": 3,
+            "price": "29.7$",
+            "author": [
+                "Danny Horne"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1970,
+            "pages": 740,
+            "isbn13": "978-1-5465-9438-3",
+            "rating": 4,
+            "price": "20.0$",
+            "author": [
+                "Patricia Smith",
+                "Kimberly Jenkins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "title": "Vagabond",
+            "year": 1959,
+            "pages": 574,
+            "isbn13": "978-1-919322-01-8",
+            "rating": 1,
+            "price": "58.8$",
+            "author": [
+                "Daniel Wilson",
+                "Sonya Gonzalez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "title": "Great teacher Onidzuka",
+            "year": 1999,
+            "pages": 657,
+            "isbn13": "978-0-00-830185-9",
+            "rating": 2,
+            "price": "63.6$",
+            "author": [
+                "Brandon Smith",
+                "Ashley Robbins",
+                "William Jones"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "title": "\u0413\u043b\u0430\u0437\u0430 \u0432\u043e \u0442\u044c\u043c\u0435",
+            "year": 1969,
+            "pages": 439,
+            "isbn13": "978-0-491-30793-2",
+            "rating": 2,
+            "price": "49.0$",
+            "author": [
+                "Megan Harris",
+                "Lisa Moore",
+                "Debbie Kelly"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "title": "Demon Slayer",
+            "year": 1977,
+            "pages": 707,
+            "isbn13": "978-0-7237-2379-0",
+            "rating": 5,
+            "price": "57.2$",
+            "author": [
+                "Jimmy Bradley",
+                "Gary Morgan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "title": "Bakuman",
+            "year": 1986,
+            "pages": 736,
+            "isbn13": "978-0-14-015053-7",
+            "rating": 3,
+            "price": "85.2$",
+            "author": [
+                "Kayla Shaw",
+                "David Foster",
+                "Melissa Rivera"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "title": "Helsing",
+            "year": 2023,
+            "pages": 424,
+            "isbn13": "978-0-7350-8666-1",
+            "rating": 1,
+            "price": "18.9$",
+            "author": [
+                "Anthony Jackson DDS"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "title": "\u0413\u043b\u0430\u0437\u0430 \u0432\u043e \u0442\u044c\u043c\u0435",
+            "year": 2023,
+            "pages": 744,
+            "isbn13": "978-0-9910065-1-9",
+            "rating": 3,
+            "price": "66.2$",
+            "author": [
+                "Tyler Fernandez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "title": "Bakuman",
+            "year": 1941,
+            "pages": 791,
+            "isbn13": "978-1-82520-051-6",
+            "rating": 2,
+            "price": "68.5$",
+            "author": [
+                "Jeremy Palmer",
+                "Melissa Johnson",
+                "Kevin Roberts"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "title": "Rock Ken",
+            "year": 1972,
+            "pages": 275,
+            "isbn13": "978-1-66914-879-1",
+            "rating": 1,
+            "price": "21.9$",
+            "author": [
+                "Michael Howell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "title": "\u0421\u0442\u0440\u0430\u043d\u0430 \u0437\u0430\u0431\u044b\u0442\u044b\u0445 \u0447\u0443\u0432\u0441\u0442\u0432",
+            "year": 1987,
+            "pages": 236,
+            "isbn13": "978-0-201-32115-9",
+            "rating": 3,
+            "price": "38.3$",
+            "author": [
+                "Erika Hurst"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "title": "\u0417\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0439 \u0434\u043e\u043c \u0438\u0437 \u0442\u0435\u043c\u043d\u043e\u0433\u043e \u043b\u0435\u0441\u0430",
+            "year": 2015,
+            "pages": 779,
+            "isbn13": "978-1-63532-853-0",
+            "rating": 1,
+            "price": "49.0$",
+            "author": [
+                "Maureen Wade"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "title": "Monster",
+            "year": 1916,
+            "pages": 240,
+            "isbn13": "978-0-19-937909-5",
+            "rating": 3,
+            "price": "23.6$",
+            "author": [
+                "Gregory Hill"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "title": "Chainsaw man",
+            "year": 1981,
+            "pages": 550,
+            "isbn13": "978-0-295-72572-7",
+            "rating": 1,
+            "price": "43.8$",
+            "author": [
+                "Dustin Hudson",
+                "Patrick Brown",
+                "Benjamin Chambers"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "title": "Gomunkulus",
+            "year": 2011,
+            "pages": 402,
+            "isbn13": "978-1-02-087161-0",
+            "rating": 4,
+            "price": "26.9$",
+            "author": [
+                "Brad Adams",
+                "Karen Jensen",
+                "Kimberly Leon"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "title": "20th centuries boys",
+            "year": 2004,
+            "pages": 428,
+            "isbn13": "978-1-86156-778-9",
+            "rating": 1,
+            "price": "45.5$",
+            "author": [
+                "April Shaw",
+                "Kaitlin Anderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "title": "Golden Boy",
+            "year": 1938,
+            "pages": 409,
+            "isbn13": "978-0-7426-5610-9",
+            "rating": 1,
+            "price": "48.8$",
+            "author": [
+                "Sharon Harper",
+                "Matthew Thompson",
+                "Mary Chavez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "title": "Gomunkulus",
+            "year": 1925,
+            "pages": 218,
+            "isbn13": "978-1-04-813000-3",
+            "rating": 4,
+            "price": "35.4$",
+            "author": [
+                "William Smith",
+                "Glenda Walker",
+                "Randy Greer"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "title": "\u0417\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0439 \u0434\u043e\u043c \u0438\u0437 \u0442\u0435\u043c\u043d\u043e\u0433\u043e \u043b\u0435\u0441\u0430",
+            "year": 1975,
+            "pages": 606,
+            "isbn13": "978-1-08-201380-5",
+            "rating": 4,
+            "price": "48.9$",
+            "author": [
+                "Kristy Maxwell",
+                "Dr. Melissa Reed"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "title": "One Piece",
+            "year": 1924,
+            "pages": 726,
+            "isbn13": "978-0-7354-9909-6",
+            "rating": 5,
+            "price": "32.3$",
+            "author": [
+                "Jeffrey Warren",
+                "Dr. Timothy Phillips"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "title": "One Piece",
+            "year": 1976,
+            "pages": 293,
+            "isbn13": "978-1-62979-420-4",
+            "rating": 1,
+            "price": "37.0$",
+            "author": [
+                "Erin Rodriguez",
+                "Amanda Brown"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "title": "One Piece",
+            "year": 1993,
+            "pages": 645,
+            "isbn13": "978-1-283-90450-6",
+            "rating": 1,
+            "price": "47.5$",
+            "author": [
+                "Jose Wagner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "title": "Golden Boy",
+            "year": 1902,
+            "pages": 303,
+            "isbn13": "978-1-4937-9987-9",
+            "rating": 1,
+            "price": "49.7$",
+            "author": [
+                "Richard Gibson",
+                "Mark Vaughn",
+                "Susan Walsh"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "title": "Golden Boy",
+            "year": 1939,
+            "pages": 231,
+            "isbn13": "978-0-259-80709-4",
+            "rating": 5,
+            "price": "50.5$",
+            "author": [
+                "Angela Lewis",
+                "Jacqueline Lee"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "title": "Vanlad saga",
+            "year": 1965,
+            "pages": 700,
+            "isbn13": "978-1-386-41190-1",
+            "rating": 1,
+            "price": "16.2$",
+            "author": [
+                "Timothy Williams MD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "title": "Monster",
+            "year": 1941,
+            "pages": 501,
+            "isbn13": "978-0-611-62989-0",
+            "rating": 3,
+            "price": "26.9$",
+            "author": [
+                "Briana Miller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "title": "Gomunkulus",
+            "year": 1922,
+            "pages": 555,
+            "isbn13": "978-1-02-785506-4",
+            "rating": 2,
+            "price": "35.0$",
+            "author": [
+                "Charles Parker",
+                "Andrew Patterson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "title": "Berserk",
+            "year": 1905,
+            "pages": 646,
+            "isbn13": "978-1-335-99239-0",
+            "rating": 1,
+            "price": "29.3$",
+            "author": [
+                "Kelli Mcguire"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "title": "Berserk",
+            "year": 1935,
+            "pages": 700,
+            "isbn13": "978-0-7288-9259-0",
+            "rating": 3,
+            "price": "76.4$",
+            "author": [
+                "Kelsey Smith",
+                "Marcus Ramirez",
+                "David Rogers"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "title": "\u0412\u043f\u0435\u0440\u0451\u0434 \u0437\u0430 \u043d\u0430\u0434\u0435\u0436\u0434\u043e\u0439",
+            "year": 1923,
+            "pages": 743,
+            "isbn13": "978-1-71407-190-6",
+            "rating": 2,
+            "price": "73.0$",
+            "author": [
+                "Vincent Martin",
+                "Anthony Villa"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "title": "\u0414\u0430\u0440 \u044e\u043d\u043e\u0439 \u0432\u0435\u0434\u044c\u043c\u044b",
+            "year": 1955,
+            "pages": 350,
+            "isbn13": "978-1-917173-84-1",
+            "rating": 3,
+            "price": "54.5$",
+            "author": [
+                "Derek Doyle"
+            ]
+        }
+    }
+]
